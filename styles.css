@@ -1,0 +1,36 @@
+body { background: seashell;
+       color: darksalmon;
+       font-size: 20pt; }
+       
+      
+body {  font-family: 'Dancing Script', cursive; }
+
+h1 { background: seashell;
+       color: darksalmon;
+       font-size: 50pt; }
+
+h1 {  font-family: 'Dancing Script', cursive; }
+
+
+h2 { background: seashell;
+       color: darksalmon;
+       font-size: 16pt; }
+       
+h2 {  font-family: 'Raleway', sans-serif; }
+
+h3 { background: seashell;
+       color: darksalmon;
+       font-size: 14pt; }
+           
+h3 {  font-family: 'Raleway', sans-serif; }
+
+
+
+h1 {
+    border: 20px solid white;
+    padding: 10px;
+}
+img {
+    border: 13px solid darksalmon;
+    padding: 0px;
+}
